@@ -1,0 +1,4 @@
+NSquared
+========
+
+Neuro Network project
